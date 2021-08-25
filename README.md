@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @gachris
+- 👋 Hi, I’m @gachris and I am a full-stack software developer
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+--->
 - 📫 How to reach me christosgatzos@gmail.com
 <!---
 gachris/gachris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
